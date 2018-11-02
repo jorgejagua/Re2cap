@@ -1,0 +1,58 @@
+RE2CAP Copyright (C)
+Cuadro de Revisiones.
+
+Sientase libre de enviar sus preguntas o comentarios al correo jorgejagua@yahoo.es
+
+Versión 2.6 [04/Mayo-2018]
+-----------
+[+]Selección de métodos por parte de usuario.
+[-]Eliminación de metodo intuitivo.
+[+]Incorporación de metodo de busqueda directa.
+[+]Actualización de guía de usuario.
+
+
+Versión 2.5. [09/Abril-2018]
+-----------
+[+]Incorporación de método intuitivo para metodo de dos capas.
+[+]Modificación de ajustes para funcion del modelo definido por usario.
+[+]Correccion de calculo de error en el modelo definido por usuario.
+
+
+Versión 2.4. [28/Septiembre-2017]
+-----------
+[+]Actualización de reporte.
+
+
+Versión 2.3. [26/Julio-2017]
+-----------
+[+] Corrección de cálculo de resistividad promedio.
+[+] Ajuste de reporte.
+
+
+Versión 2.2. [06/Julio-2017]
+-----------
+[+] Ajuste de ejes para zoom de gráficas.
+[+] Auto ajuste del tamaño de la gráfica.
+[+] Perfiles adicionales para el ingreso de datos maximo 8 perfiles.
+[-] Modificación de reporte.
+[+] Adición de perfiles en reporte.
+
+
+Versión 2. [27-Junio-2017]
+-----------
+[+] Bugs conocidos fueron corregidos.
+[+] Se agrega sondeo Schlumberger.
+[+] Se desarrolla archivo instalador.
+[+] Adición de documentación.
+[+] Ajuste de presentación y forma.
+
+
+Versión 1.1 [Junio-2017]
+-----------
+[+] Corrección de bugs menores.
+[+] Se genera reporte de resultados.
+
+
+Versión 1. [Junio-2017]
+-----------
+[+] Primera versión.

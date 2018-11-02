@@ -1,0 +1,27 @@
+Terminos de Licencia
+RE2CAP
+
+Copyright (C) <2018> <Jorge Jagua>
+
+El desarrollador/propietario de este programa ha licenciado al mismo como freeware, permitiendo su uso sin costo, por tiempo ilimitado, y con distribucion libre. Pese lo anterior se ha de tener en cuenta lo siguiente:
+      
+        No se permite la venta en algun modo del programa.
+        No se permite la modificacion en algun modo del programa.
+        Indicar el nombre del programa.
+
+La licencia de uso se destina exclusivamente al programa entregado en todas sus versiones lanzadas hasta la fecha, y se aplicara, salvo disposiciones en contrario del Desarrollador, tambien para las versiones futuras.
+
+La instalacion y/o ejecucion del programa implica la aceptacion por parte del usuario de las consideraciones indicadas anteriormente, asi como de los terminos que se mencionen en este documento.
+
+A pesar que el programa es gratuito y es de libre distribucion, el usuario no cuenta con el titulo de propiedad sobre el mismo y no se permite explotacion comercial de ningun tipo.
+
+Cuando el usuario transfiera el programa a un tercero, este ultimo tendra los derechos y deberes mostrados en este documento. Ello implica que se debera suministrar por parte del usuario todos los documentos impresos o en soporte magnetico.
+
+El desarrollador/propietario del software no se responsabiliza en ningun caso del uso y operacion del programa y no garantiza su rendimiento con el software y hardware del usuario. 
+
+El usuario es el responsable por el uso del programa entregado.
+
+Pueden enviarse comentarios, dudas, sugerencias pero el desarrollador/propietario no esta obligado a responder a los mismos.
+
+Si el usuario no esta de acuerdo con los terminos de la licencia, no debera seguir con la instalacion y/o utilizacion del programa.
+
